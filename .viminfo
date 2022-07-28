@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1658974451,,"wq!"
+|2,0,1658974985,,"wq!"
 :wc!
 |2,0,1658974420,,"wc!"
 
@@ -26,24 +26,64 @@
 
 # Registers:
 ""-	CHAR	0
-	s
-|3,1,36,0,1,0,1658974441,"s"
+	6
+|3,1,36,0,1,0,1658974976,"6"
 
 # File marks:
-'0  1  18  ~/Demo1
-|4,48,1,18,1658974451,"~/Demo1"
-'1  3  8  ~/payment1.html
-|4,49,3,8,1658973541,"~/payment1.html"
-'2  18  0  ~/.git/COMMIT_EDITMSG
-|4,50,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+'0  8  0  ~/Demo1
+|4,48,8,0,1658974985,"~/Demo1"
+'1  1  0  ~/demo1
+|4,49,1,0,1658974912,"~/demo1"
+'2  1  18  ~/Demo1
+|4,50,1,18,1658974451,"~/Demo1"
+'3  1  18  ~/Demo1
+|4,51,1,18,1658974451,"~/Demo1"
+'4  3  8  ~/payment1.html
+|4,52,3,8,1658973541,"~/payment1.html"
+'5  18  0  ~/.git/COMMIT_EDITMSG
+|4,53,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  8  0  ~/Demo1
+|4,39,8,0,1658974985,"~/Demo1"
+-'  1  11  ~/Demo1
+|4,39,1,11,1658974930,"~/Demo1"
+-'  1  0  ~/demo1
+|4,39,1,0,1658974912,"~/demo1"
+-'  1  0  ~/demo1
+|4,39,1,0,1658974912,"~/demo1"
+-'  1  18  ~/Demo1
+|4,39,1,18,1658974451,"~/Demo1"
 -'  1  18  ~/Demo1
 |4,39,1,18,1658974451,"~/Demo1"
 -'  3  8  ~/payment1.html
 |4,39,3,8,1658973541,"~/payment1.html"
 -'  3  8  ~/payment1.html
 |4,39,3,8,1658973541,"~/payment1.html"
+-'  3  8  ~/payment1.html
+|4,39,3,8,1658973541,"~/payment1.html"
+-'  3  8  ~/payment1.html
+|4,39,3,8,1658973541,"~/payment1.html"
+-'  3  8  ~/payment1.html
+|4,39,3,8,1658973541,"~/payment1.html"
+-'  3  8  ~/payment1.html
+|4,39,3,8,1658973541,"~/payment1.html"
+-'  3  8  ~/payment1.html
+|4,39,3,8,1658973541,"~/payment1.html"
+-'  3  8  ~/payment1.html
+|4,39,3,8,1658973541,"~/payment1.html"
+-'  1  0  ~/payment1.html
+|4,39,1,0,1658973285,"~/payment1.html"
+-'  1  0  ~/payment1.html
+|4,39,1,0,1658973285,"~/payment1.html"
+-'  1  0  ~/payment1.html
+|4,39,1,0,1658973285,"~/payment1.html"
+-'  1  0  ~/payment1.html
+|4,39,1,0,1658973285,"~/payment1.html"
+-'  1  0  ~/payment1.html
+|4,39,1,0,1658973285,"~/payment1.html"
+-'  1  0  ~/payment1.html
+|4,39,1,0,1658973285,"~/payment1.html"
 -'  1  0  ~/payment1.html
 |4,39,1,0,1658973285,"~/payment1.html"
 -'  1  0  ~/payment1.html
@@ -56,6 +96,54 @@
 |4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
 -'  18  0  ~/.git/COMMIT_EDITMSG
 |4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  18  0  ~/.git/COMMIT_EDITMSG
+|4,39,18,0,1658897583,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1658890053,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -68,11 +156,17 @@
 # History of marks within files (newest to oldest):
 
 > ~/Demo1
-	*	1658974444	0
-	"	1	18
+	*	1658974981	0
+	"	8	0
 	^	1	19
-	.	1	18
-	+	1	18
+	.	8	0
+	+	1	0
+	+	3	0
+	+	8	0
+
+> ~/demo1
+	*	1658974907	0
+	"	1	0
 
 > ~/payment1.html
 	*	1658973530	0
